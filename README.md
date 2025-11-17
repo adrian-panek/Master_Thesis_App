@@ -1,4 +1,4 @@
-📢 Notices Board Full Stack Application
+# 📢 Notices Board Full Stack Application
 
 Project in this repository was created during ***Design and Implementation of Web Systems*** course throughout my masters degree at Wrocław University of Science and Technology. Additionaly ***Github Actions*** workflows configured in this repository builds both applications (frontend + backend) and creates ready-to-deploy Docker image and pushes it to docker hub. On top of that in backend folder you can also find docker-compose responsible for running monitoring stack.
 
@@ -40,3 +40,4 @@ CI/CD pipeline implemmented in this project helped me prepare case studies for m
 # Monitoring
 1. Run command `docker compose up` in `backend` folder.
 2. Add data source in Grafana
+
